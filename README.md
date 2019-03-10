@@ -49,8 +49,8 @@ Test de fonctionnement des interfaces
 
 **Client1** ping **Server1**
 
-- <a href="">Capture pour l'interface qui est dans net12</a>
-- <a href="">Capture pour l'interface qui est dans net2</a>
+- <a href="https://github.com/Ervin11/b2-net-tp2/blob/master/Captures/capture-routage-net12.pcap">Capture pour l'interface qui est dans net12</a>
+- <a href="https://github.com/Ervin11/b2-net-tp2/blob/master/Captures/capture-routage-net2.pcap">Capture pour l'interface qui est dans net2</a>
 
 La différence est que pour :
 - Le réseau **net12** : **router1** demande qui a l'IP qui correspond à **router2** pour pouvoir rediriger le ping vers l'adresse de **server1**.
